@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>214541982033-srj3u903m97orkrlehkrp5mct332s9i7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.214541982033-srj3u903m97orkrlehkrp5mct332s9i7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmqMpyvN56xN21wpq3tVy3sVSc726ivsM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>214541982033</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>onlue.diploma</string>
+	<key>PROJECT_ID</key>
+	<string>diplomaapp-32a79</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diplomaapp-32a79.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:214541982033:ios:cdc043a03be8c64ee01b70</string>
+</dict>
+</plist>
